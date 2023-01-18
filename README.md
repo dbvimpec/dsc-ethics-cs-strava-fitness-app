@@ -7,7 +7,7 @@ In the publication "Data Pollution" (Ben-Shahar, 2019), Omir Ben-Shahar asserts 
 
 Ben-Shahar continues to develop a novel framework known as *data pollution* to conceptualize the actual and potential harms of the data economy, as well as the regulatory response to these harms. Data pollution is a useful metaphor because it adequately represents the notion that progress can have unintended harms and that any useful tool might also be a useful weapon.
 
-In this case study, we will discuss the **Strava Fitness App** and the impact of the seemingly innocuous app on national security in an international data ecosystem.
+In this case study, you will learn about the **Strava Fitness App** and the impact of the seemingly innocuous app on national security in an international data ecosystem.
 
 
 ## Learning Objectives
